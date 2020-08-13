@@ -1,4 +1,4 @@
-# Hangouts Chat RSS bot
+# Hangouts Chat RSS bot - Standard RSS feed support
 A simple Google Apps Script that fetches news from an RSS feed and posts them to a Hangouts Chat room using webhooks.
 
 This sample uses the Google Cloud Platform blog as an example.
